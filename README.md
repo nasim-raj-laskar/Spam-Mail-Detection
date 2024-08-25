@@ -1,4 +1,4 @@
-#Spam Mail Detection System
+# Spam Mail Detection System
 
 This project is a machine learning-based spam mail detection system that classifies email messages as either spam or non-spam (ham). Using a dataset of labeled emails, the system preprocesses the text, extracts key features using TF-IDF (Term Frequency-Inverse Document Frequency), and applies logistic regression to accurately detect spam.
 
