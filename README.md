@@ -19,7 +19,9 @@ The dataset consists of two columns:
 ## Prerequisites
 
 Ensure that you have the following installed:
+
 1.Python 3.7+
+
 2.Jupyter Notebook (for running the project in a notebook environment)
 
 ## Installation
